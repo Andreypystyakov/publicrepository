@@ -1,2 +1,5 @@
 ﻿  progectforgit.cpp
+C:\clonerep\publicrepository\progectforgit\progectforgit.cpp(13,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\clonerep\publicrepository\progectforgit\progectforgit.cpp(16,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\clonerep\publicrepository\progectforgit\progectforgit.cpp(27,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
   progectforgit.vcxproj -> C:\clonerep\publicrepository\progectforgit\x64\Debug\progectforgit.exe
